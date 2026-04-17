@@ -6,16 +6,16 @@
       "node_id": 0,
       "node_type": "sticker",
       "title": "Sticker",
-      "uuid": "6435480591cf423699cbed4c923ca805",
-      "x": 2460.5293917396225,
-      "y": 1408.6256069794135,
+      "uuid": "1f6667ed123043cf9b87fd4ea8767015",
+      "x": 3582.311496289317,
+      "y": -633.4146064165816,
       "width": 400.0,
       "height": 400.0,
       "z_value": 100.0,
       "ports_visible": false,
       "shelf_visible": true,
       "image_b64": "",
-      "source_path": "C:\\Users\\thisg\\Desktop\\Intricate\\icons\\catnip_sticker_pressed_1024.png",
+      "source_path": "C:\\Users\\thisg\\Desktop\\Intricate\\icons\\directAudio.png",
       "pinned": false,
       "pin_vp_x": 0.0,
       "pin_vp_y": 0.0
@@ -42,33 +42,47 @@
       "node_id": 0,
       "node_type": "sticker",
       "title": "Sticker",
-      "uuid": "1f6667ed123043cf9b87fd4ea8767015",
-      "x": 3582.311496289317,
-      "y": -633.4146064165816,
+      "uuid": "6435480591cf423699cbed4c923ca805",
+      "x": 2460.5293917396225,
+      "y": 1408.6256069794135,
       "width": 400.0,
       "height": 400.0,
       "z_value": 100.0,
       "ports_visible": false,
       "shelf_visible": true,
       "image_b64": "",
-      "source_path": "C:\\Users\\thisg\\Desktop\\Intricate\\icons\\directAudio.png",
+      "source_path": "C:\\Users\\thisg\\Desktop\\Intricate\\icons\\catnip_sticker_pressed_1024.png",
       "pinned": false,
       "pin_vp_x": 0.0,
       "pin_vp_y": 0.0
     },
     {
       "node_id": 0,
+      "node_type": "warm",
+      "title": "God Himself",
+      "uuid": "ab987ad3773144f5a5d0cd8fa9b8845f",
+      "x": -171.18627374382697,
+      "y": 881.2885606279569,
+      "width": 324.8517457246961,
+      "height": 360.0,
+      "z_value": 10.0,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "Our faith in him, and the holy spirit which encumbers.\n\nThere are two sides of this tale that we can never tell \nWithout considering the other, \nThis immaculate bond \nBetween those who pursue answers \nAnd those who possess them,\nBoth must be discussed in equal value.\n\nThose are in effect the same, one being \nThe manifestation of the concept of God, \n\nGlory, Kindness, and Truth, \n\nWhile the counterpart being the human manifestation of such\n"
+    },
+    {
+      "node_id": 0,
       "node_type": "about",
-      "title": "So that we can confirm that his plan indeed did work great",
-      "uuid": "0c7f791f2c0c43ebb64dce00f1e6b5e3",
-      "x": -1414.8148148148148,
-      "y": -163.8888888888888,
-      "width": 623.5710151615266,
-      "height": 58.58750026951441,
+      "title": "Just so that we are all on the same page",
+      "uuid": "a0c157b656f34717a5bad13b9d48f7d6",
+      "x": -1239.8148148148148,
+      "y": -236.1111111111111,
+      "width": 447.3079079317573,
+      "height": 61.804651674211385,
       "z_value": 10.0,
       "ports_visible": false,
       "shelf_visible": false,
-      "label": "So that we can confirm that his plan indeed did work great",
+      "label": "Just so that we are all on the same page",
       "depth_front": true,
       "node_tint": ""
     },
@@ -91,32 +105,98 @@
     {
       "node_id": 0,
       "node_type": "about",
-      "title": "Just so that we are all on the same page",
-      "uuid": "a0c157b656f34717a5bad13b9d48f7d6",
-      "x": -1239.8148148148148,
-      "y": -236.1111111111111,
-      "width": 447.3079079317573,
-      "height": 61.804651674211385,
+      "title": "So that we can confirm that his plan indeed did work great",
+      "uuid": "0c7f791f2c0c43ebb64dce00f1e6b5e3",
+      "x": -1414.8148148148148,
+      "y": -163.8888888888888,
+      "width": 623.5710151615266,
+      "height": 58.58750026951441,
       "z_value": 10.0,
       "ports_visible": false,
       "shelf_visible": false,
-      "label": "Just so that we are all on the same page",
+      "label": "So that we can confirm that his plan indeed did work great",
       "depth_front": true,
       "node_tint": ""
     },
     {
       "node_id": 0,
-      "node_type": "warm",
-      "title": "God Himself",
-      "uuid": "ab987ad3773144f5a5d0cd8fa9b8845f",
-      "x": -171.18627374382697,
-      "y": 881.2885606279569,
-      "width": 324.8517457246961,
-      "height": 360.0,
-      "z_value": 10.0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "bb0567db885b4f7bac3138d35640a9b3",
+      "x": 2197.2659781854954,
+      "y": -1220.8618092006745,
+      "width": 587.0,
+      "height": 52.0,
+      "z_value": -9.916000000000047,
       "ports_visible": false,
-      "shelf_visible": true,
-      "body_text": "Our faith in him, and the holy spirit which encumbers.\n\nThere are two sides of this tale that we can never tell \nWithout considering the other, \nThis immaculate bond \nBetween those who pursue answers \nAnd those who possess them,\nBoth must be discussed in equal value.\n\nThose are in effect the same, one being \nThe manifestation of the concept of God, \n\nGlory, Kindness, and Truth, \n\nWhile the counterpart being the human manifestation of such\n"
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nCounterpart.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "cf46c3aa14824f7db79473b391d32d63",
+      "x": -1906.598928181569,
+      "y": -315.4020193997011,
+      "width": 657.0,
+      "height": 52.0,
+      "z_value": -9.917000000000046,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith3.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "d1b65b3434e4460d864cb046830bf666",
+      "x": -242.05181042095967,
+      "y": -33.65265150677931,
+      "width": 647.0,
+      "height": 52.0,
+      "z_value": -9.918000000000045,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "2a08714aebe84f728ab091437eccf401",
+      "x": -2424.192927011154,
+      "y": 249.9439139186759,
+      "width": 667.0,
+      "height": 52.0,
+      "z_value": -9.919000000000045,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith20.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "cd08933a49904a88b2204f801f9de95a",
+      "x": -821.3675213675208,
+      "y": 17.448653467270105,
+      "width": 657.0,
+      "height": 52.0,
+      "z_value": -9.920000000000044,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith2.png",
+      "depth_front": false,
+      "node_tint": ""
     },
     {
       "node_id": 0,
@@ -227,7 +307,7 @@
       "source_path": "C:\\Users\\thisg\\Desktop\\_asset\\Clippy,Blessed be his name\\52fe9e48-8a75-4478-babd-d9e7838d6fe0-video.mp4",
       "caption": "52fe9e48-8a75-4478-babd-d9e7838d6fe0-video",
       "volume": 0,
-      "playback_pos": 4133,
+      "playback_pos": 4750,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -264,7 +344,7 @@
       "source_path": "C:\\Users\\thisg\\Desktop\\_asset\\Clippy,Blessed be his name\\Counterparts.mp4",
       "caption": "Counterparts",
       "volume": 69,
-      "playback_pos": 6989,
+      "playback_pos": 2507,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -459,7 +539,7 @@
       "source_path": "C:\\Users\\thisg\\Desktop\\Lectures On Faith\\Clips\\Clay Towers.mp4",
       "caption": "Clay Towers",
       "volume": 44,
-      "playback_pos": 5735,
+      "playback_pos": 8939,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -480,7 +560,7 @@
       "source_path": "C:\\Users\\thisg\\Desktop\\Lectures On Faith\\Clips\\Packing Pile.mp4",
       "caption": "Packing Pile",
       "volume": 0,
-      "playback_pos": 4133,
+      "playback_pos": 9613,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -601,65 +681,85 @@
   ],
   "connections": [
     {
-      "start_uuid": "1713cb6d49504f8185275eea86c9c0ee",
-      "end_uuid": "1f0e10af3b364c1a8d546807e7a406c1"
-    },
-    {
-      "start_uuid": "9e2228877cd54bacb710c459d0d6d1c8",
-      "end_uuid": "c6c3cfee1ccc4384b01efb53f1b81bb7"
-    },
-    {
       "start_uuid": "f1d4ca20c66e405a89f71d510ee926be",
-      "end_uuid": "1db91f8484e842a9824906fc8c29583e"
-    },
-    {
-      "start_uuid": "44556bf8b281474d9edfbfffba14356a",
-      "end_uuid": "735434714dca43a298624fce60fee118"
+      "end_uuid": "bb0567db885b4f7bac3138d35640a9b3"
     },
     {
       "start_uuid": "9bbae89e5f3247db8bd9c97cc4dcc4fd",
-      "end_uuid": "01d14aeff25c41e6a40ba84ce63c1582"
-    },
-    {
-      "start_uuid": "97feb90cd29b404ca78d2f7eebd782f1",
-      "end_uuid": "737de3e1fb174c10a2f485b416548089"
-    },
-    {
-      "start_uuid": "97feb90cd29b404ca78d2f7eebd782f1",
-      "end_uuid": "291e92cd8cb84fe1857d73408e4960f3"
-    },
-    {
-      "start_uuid": "44556bf8b281474d9edfbfffba14356a",
-      "end_uuid": "9bbae89e5f3247db8bd9c97cc4dcc4fd"
+      "end_uuid": "cf46c3aa14824f7db79473b391d32d63"
     },
     {
       "start_uuid": "1713cb6d49504f8185275eea86c9c0ee",
-      "end_uuid": "44556bf8b281474d9edfbfffba14356a"
+      "end_uuid": "d1b65b3434e4460d864cb046830bf666"
     },
     {
-      "start_uuid": "2143fd38ec9041f783e5a9c04c4ed9eb",
-      "end_uuid": "97feb90cd29b404ca78d2f7eebd782f1"
+      "start_uuid": "9e2228877cd54bacb710c459d0d6d1c8",
+      "end_uuid": "2a08714aebe84f728ab091437eccf401"
     },
     {
-      "start_uuid": "ceef3615eac043cfa34c6db82053a095",
-      "end_uuid": "2143fd38ec9041f783e5a9c04c4ed9eb"
+      "start_uuid": "44556bf8b281474d9edfbfffba14356a",
+      "end_uuid": "cd08933a49904a88b2204f801f9de95a"
+    },
+    {
+      "start_uuid": "0acfa19fc113406e80a05663681f86aa",
+      "end_uuid": "5acb5108413c412c8d81e4157659790f"
     },
     {
       "start_uuid": "c12880176613464aaaccda3801200bc3",
       "end_uuid": "ceef3615eac043cfa34c6db82053a095"
     },
     {
-      "start_uuid": "0acfa19fc113406e80a05663681f86aa",
-      "end_uuid": "5acb5108413c412c8d81e4157659790f"
+      "start_uuid": "ceef3615eac043cfa34c6db82053a095",
+      "end_uuid": "2143fd38ec9041f783e5a9c04c4ed9eb"
+    },
+    {
+      "start_uuid": "2143fd38ec9041f783e5a9c04c4ed9eb",
+      "end_uuid": "97feb90cd29b404ca78d2f7eebd782f1"
+    },
+    {
+      "start_uuid": "1713cb6d49504f8185275eea86c9c0ee",
+      "end_uuid": "44556bf8b281474d9edfbfffba14356a"
+    },
+    {
+      "start_uuid": "44556bf8b281474d9edfbfffba14356a",
+      "end_uuid": "9bbae89e5f3247db8bd9c97cc4dcc4fd"
+    },
+    {
+      "start_uuid": "97feb90cd29b404ca78d2f7eebd782f1",
+      "end_uuid": "291e92cd8cb84fe1857d73408e4960f3"
+    },
+    {
+      "start_uuid": "97feb90cd29b404ca78d2f7eebd782f1",
+      "end_uuid": "737de3e1fb174c10a2f485b416548089"
+    },
+    {
+      "start_uuid": "9bbae89e5f3247db8bd9c97cc4dcc4fd",
+      "end_uuid": "01d14aeff25c41e6a40ba84ce63c1582"
+    },
+    {
+      "start_uuid": "44556bf8b281474d9edfbfffba14356a",
+      "end_uuid": "735434714dca43a298624fce60fee118"
+    },
+    {
+      "start_uuid": "f1d4ca20c66e405a89f71d510ee926be",
+      "end_uuid": "1db91f8484e842a9824906fc8c29583e"
+    },
+    {
+      "start_uuid": "9e2228877cd54bacb710c459d0d6d1c8",
+      "end_uuid": "c6c3cfee1ccc4384b01efb53f1b81bb7"
+    },
+    {
+      "start_uuid": "1713cb6d49504f8185275eea86c9c0ee",
+      "end_uuid": "1f0e10af3b364c1a8d546807e7a406c1"
     }
   ],
   "viewport": {
-    "camera_x": 1263.2339781940298,
-    "camera_y": -2155.5460680540787,
+    "camera_x": 1243.9880311578327,
+    "camera_y": -1529.1779736032993,
     "camera_zoom": 0.5715489073783467
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "checksum": "37fb4ffaa1effa65"
+  "checksum": "a95d479f74db539b"
 }
