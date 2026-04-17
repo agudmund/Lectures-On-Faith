@@ -120,6 +120,166 @@
     },
     {
       "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "bb0567db885b4f7bac3138d35640a9b3",
+      "x": 2197.2659781854954,
+      "y": -1220.8618092006745,
+      "width": 587.0,
+      "height": 52.0,
+      "z_value": -9.916000000000047,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nCounterpart.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "cf46c3aa14824f7db79473b391d32d63",
+      "x": -1906.598928181569,
+      "y": -315.4020193997011,
+      "width": 657.0,
+      "height": 52.0,
+      "z_value": -9.917000000000046,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith3.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "d1b65b3434e4460d864cb046830bf666",
+      "x": -242.05181042095967,
+      "y": -33.65265150677931,
+      "width": 647.0,
+      "height": 52.0,
+      "z_value": -9.918000000000045,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "2a08714aebe84f728ab091437eccf401",
+      "x": -2424.192927011154,
+      "y": 249.9439139186759,
+      "width": 667.0,
+      "height": 52.0,
+      "z_value": -9.919000000000045,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith20.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "cd08933a49904a88b2204f801f9de95a",
+      "x": -821.3675213675208,
+      "y": 17.448653467270105,
+      "width": 657.0,
+      "height": 52.0,
+      "z_value": -9.920000000000044,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith2.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "1f0e10af3b364c1a8d546807e7a406c1",
+      "x": -242.05181042095967,
+      "y": -33.65265150677931,
+      "width": 647.0,
+      "height": 52.0,
+      "z_value": -9.921000000000044,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "c6c3cfee1ccc4384b01efb53f1b81bb7",
+      "x": -2424.192927011154,
+      "y": 249.9439139186759,
+      "width": 667.0,
+      "height": 52.0,
+      "z_value": -9.922000000000043,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith20.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "1db91f8484e842a9824906fc8c29583e",
+      "x": 2197.2659781854954,
+      "y": -1220.8618092006745,
+      "width": 587.0,
+      "height": 52.0,
+      "z_value": -9.923000000000043,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nCounterpart.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "735434714dca43a298624fce60fee118",
+      "x": -821.3675213675208,
+      "y": 17.448653467270105,
+      "width": 657.0,
+      "height": 52.0,
+      "z_value": -9.924000000000042,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith2.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "01d14aeff25c41e6a40ba84ce63c1582",
+      "x": -1906.598928181569,
+      "y": -315.4020193997011,
+      "width": 657.0,
+      "height": 52.0,
+      "z_value": -9.925000000000042,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source drifted \u2014 cache no longer matches\nLectures on Faith3.png",
+      "depth_front": false,
+      "node_tint": ""
+    },
+    {
+      "node_id": 0,
       "node_type": "warm",
       "title": "Kinetic",
       "uuid": "cdaafe4abeea48deb0a651f15be54b43",
@@ -147,7 +307,7 @@
       "source_path": "C:\\Users\\thisg\\Desktop\\_asset\\Clippy,Blessed be his name\\52fe9e48-8a75-4478-babd-d9e7838d6fe0-video.mp4",
       "caption": "52fe9e48-8a75-4478-babd-d9e7838d6fe0-video",
       "volume": 0,
-      "playback_pos": 1346,
+      "playback_pos": 4750,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -184,7 +344,7 @@
       "source_path": "C:\\Users\\thisg\\Desktop\\_asset\\Clippy,Blessed be his name\\Counterparts.mp4",
       "caption": "Counterparts",
       "volume": 69,
-      "playback_pos": 8916,
+      "playback_pos": 2507,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -379,7 +539,7 @@
       "source_path": "C:\\Users\\thisg\\Desktop\\Lectures On Faith\\Clips\\Clay Towers.mp4",
       "caption": "Clay Towers",
       "volume": 44,
-      "playback_pos": 0,
+      "playback_pos": 8939,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -400,7 +560,7 @@
       "source_path": "C:\\Users\\thisg\\Desktop\\Lectures On Faith\\Clips\\Packing Pile.mp4",
       "caption": "Packing Pile",
       "volume": 0,
-      "playback_pos": 7221,
+      "playback_pos": 9613,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -439,7 +599,7 @@
       "cache_key": "b74ed4dffad8f988b9eb44d29debdfdfb5887e3c18406658cd413761e2ded962",
       "caption": "Religious theological discussion on humanity",
       "source_path": "C:\\Users\\thisg\\Desktop\\Lectures On Faith\\Pages\\Lectures on Faith2.png",
-      "show_border": false,
+      "show_border": true,
       "depth_front": false
     },
     {
@@ -458,7 +618,7 @@
       "cache_key": "4da118033e693f4d4d73e8549572f12996e470795f9eeecf74a5d9ca3db0e546",
       "caption": "Biblical passages about glorifying God",
       "source_path": "C:\\Users\\thisg\\Desktop\\Lectures On Faith\\Pages\\Lectures on Faith3.png",
-      "show_border": false,
+      "show_border": true,
       "depth_front": false
     },
     {
@@ -477,7 +637,7 @@
       "cache_key": "5bb1041b6d196adc89fda0a34fb182f8c6d9b0f105a7c1e7896487fa1e68ef04",
       "caption": "Lectures On Faith book cover",
       "source_path": "C:\\Users\\thisg\\Desktop\\Lectures On Faith\\Pages\\Lectures on Faith.png",
-      "show_border": false,
+      "show_border": true,
       "depth_front": false
     },
     {
@@ -496,7 +656,7 @@
       "cache_key": "45b9dfd6b4eaebc49a23d0cca887cc5d123abce1cfafb63fc231c41f1fcbc869",
       "caption": "Thank you message on screen",
       "source_path": "C:\\Users\\thisg\\Desktop\\Lectures On Faith\\Pages\\Lectures on Faith20.png",
-      "show_border": false,
+      "show_border": true,
       "depth_front": false
     },
     {
@@ -515,11 +675,31 @@
       "cache_key": "3c5f63d4eb1046dee147620a1c6ab4a6b4dc4fc7ef1cfebfc6b06aa5892b45cf",
       "caption": "Elegant woman skyline cityscape",
       "source_path": "C:\\Users\\thisg\\Desktop\\Lectures On Faith\\Images\\Counterpart.png",
-      "show_border": false,
+      "show_border": true,
       "depth_front": false
     }
   ],
   "connections": [
+    {
+      "start_uuid": "f1d4ca20c66e405a89f71d510ee926be",
+      "end_uuid": "bb0567db885b4f7bac3138d35640a9b3"
+    },
+    {
+      "start_uuid": "9bbae89e5f3247db8bd9c97cc4dcc4fd",
+      "end_uuid": "cf46c3aa14824f7db79473b391d32d63"
+    },
+    {
+      "start_uuid": "1713cb6d49504f8185275eea86c9c0ee",
+      "end_uuid": "d1b65b3434e4460d864cb046830bf666"
+    },
+    {
+      "start_uuid": "9e2228877cd54bacb710c459d0d6d1c8",
+      "end_uuid": "2a08714aebe84f728ab091437eccf401"
+    },
+    {
+      "start_uuid": "44556bf8b281474d9edfbfffba14356a",
+      "end_uuid": "cd08933a49904a88b2204f801f9de95a"
+    },
     {
       "start_uuid": "0acfa19fc113406e80a05663681f86aa",
       "end_uuid": "5acb5108413c412c8d81e4157659790f"
@@ -551,12 +731,35 @@
     {
       "start_uuid": "97feb90cd29b404ca78d2f7eebd782f1",
       "end_uuid": "737de3e1fb174c10a2f485b416548089"
+    },
+    {
+      "start_uuid": "9bbae89e5f3247db8bd9c97cc4dcc4fd",
+      "end_uuid": "01d14aeff25c41e6a40ba84ce63c1582"
+    },
+    {
+      "start_uuid": "44556bf8b281474d9edfbfffba14356a",
+      "end_uuid": "735434714dca43a298624fce60fee118"
+    },
+    {
+      "start_uuid": "f1d4ca20c66e405a89f71d510ee926be",
+      "end_uuid": "1db91f8484e842a9824906fc8c29583e"
+    },
+    {
+      "start_uuid": "9e2228877cd54bacb710c459d0d6d1c8",
+      "end_uuid": "c6c3cfee1ccc4384b01efb53f1b81bb7"
+    },
+    {
+      "start_uuid": "1713cb6d49504f8185275eea86c9c0ee",
+      "end_uuid": "1f0e10af3b364c1a8d546807e7a406c1"
     }
   ],
   "viewport": {
-    "camera_x": 1624.3991888929136,
-    "camera_y": 2277.267762419252,
-    "camera_zoom": 0.2573259103169598
+    "camera_x": 1243.9880311578327,
+    "camera_y": -1529.1779736032993,
+    "camera_zoom": 0.5715489073783467
   },
-  "checksum": "9439451a80e76511"
+  "ui_migrations": [
+    "image_border_default_on_v1"
+  ],
+  "checksum": "a95d479f74db539b"
 }
