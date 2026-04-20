@@ -217,7 +217,7 @@
       "source_mtime": 1772815582.3416893,
       "caption": "52fe9e48-8a75-4478-babd-d9e7838d6fe0-video",
       "volume": 0,
-      "playback_pos": 1602,
+      "playback_pos": 5131,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -257,7 +257,7 @@
       "source_mtime": 1770654895.8541267,
       "caption": "Counterparts",
       "volume": 69,
-      "playback_pos": 3227,
+      "playback_pos": 3668,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -439,7 +439,7 @@
       "source_mtime": 1770654522.0095222,
       "caption": "Clay Towers",
       "volume": 44,
-      "playback_pos": 5085,
+      "playback_pos": 998,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -463,7 +463,7 @@
       "source_mtime": 1770655083.2261627,
       "caption": "Packing Pile",
       "volume": 0,
-      "playback_pos": 2693,
+      "playback_pos": 743,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -631,12 +631,12 @@
     }
   ],
   "viewport": {
-    "camera_x": 3331.1035611690027,
-    "camera_y": -708.5676100284218,
-    "camera_zoom": 1.0768203191921162
+    "camera_x": 705.7741982144516,
+    "camera_y": -465.1693579140705,
+    "camera_zoom": 0.3740573127607914
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "checksum": "60b81674329f686c"
+  "checksum": "77be20535919dcbf"
 }
