@@ -57,6 +57,20 @@
       "node_id": 0,
       "node_type": "warm",
       "title": "",
+      "uuid": "26b1c2e28ba04196890536565a1aa226",
+      "x": 5175.46224772192,
+      "y": 1912.803172238054,
+      "width": 300.0,
+      "height": 200.0,
+      "z_value": -9.895000000000058,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "Searched the web\nSearched the web\nHere's the verse:"
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "",
       "uuid": "114f698d969e48c887612fe27f19af62",
       "x": 11284.652748801938,
       "y": 4180.611261634333,
@@ -274,8 +288,8 @@
       "node_type": "warm",
       "title": "",
       "uuid": "2500210773f8402ab1a26933e067fe29",
-      "x": 10952.125237394599,
-      "y": 3334.04106016435,
+      "x": 9772.285089495705,
+      "y": 2634.283833112108,
       "width": 300.0,
       "height": 200.0,
       "z_value": -9.867000000000074,
@@ -387,7 +401,7 @@
       "source_mtime": 1770654522.0095222,
       "caption": "Clay Towers",
       "volume": 44,
-      "playback_pos": 7383,
+      "playback_pos": 998,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -484,8 +498,8 @@
       "node_type": "warm",
       "title": "",
       "uuid": "a225237dc1954957b2be338b6cb29557",
-      "x": 17791.338886042635,
-      "y": 8502.377879777476,
+      "x": 18080.46665040409,
+      "y": 8369.03016086939,
       "width": 300.0,
       "height": 200.0,
       "z_value": -9.8200000000001,
@@ -633,8 +647,8 @@
       "node_type": "warm",
       "title": "",
       "uuid": "53d61c6da8df41c5babfe2a7ab045963",
-      "x": 4935.446039306761,
-      "y": 974.7375593259392,
+      "x": 5552.811308761356,
+      "y": 1885.2917405292405,
       "width": 300.0,
       "height": 200.0,
       "z_value": -9.89300000000006,
@@ -683,6 +697,20 @@
       "ports_visible": false,
       "shelf_visible": true,
       "body_text": "\"There will be a gathering of all humans, but only those who do not partake in war\" \u2014 This is where it gets interesting. The Hermetic corpus is not a pacifist tradition in the Buddhist sense, but it is anti-passion, and war is the paradigmatic expression of the lower passions binding the soul to matter. Poimandres lists the qualities cast off in ascent: deceit, desire, arrogance, audacity, evil striving, greed, falsehood. The warring impulse \u2014 the thumos in Platonic terms \u2014 is one of the planetary garments shed in the return. So the Hermetic awakened are not those who refused war as a precept, but those who transcended the passion that produces war. Same outcome, different metaphysics."
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "",
+      "uuid": "7bfad357ff934a6587848218c7a53155",
+      "x": 4417.5688463802835,
+      "y": 633.1689813366925,
+      "width": 300.0,
+      "height": 200.0,
+      "z_value": -9.899000000000056,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "Apr 24\nClaude responded: \"Doctrine 45:69\" doesn't match anything I recognize as a standard reference.\n\"Doctrine 45:69\" doesn't match anything I recognize as a standard reference. A few possibilities:"
     },
     {
       "node_id": 0,
@@ -739,20 +767,6 @@
       "ports_visible": false,
       "shelf_visible": true,
       "body_text": "So if your unknown quote rattles against Krishna, it rattles by contrast more than by resonance. The Buddhist substrate fits better. But Krishna gives you something the Buddhist frame doesn't: the theophanic register for \"light arrives,\" which is closer to Revelation 1:7's \"every eye shall see him\" than anything in the Pali Canon."
-    },
-    {
-      "node_id": 0,
-      "node_type": "warm",
-      "title": "Proverbs 13:20",
-      "uuid": "390c9e4e108a4052b15f4da34244d3c6",
-      "x": 2154.1008726205873,
-      "y": 235.3965902038999,
-      "width": 280.32220504033876,
-      "height": 117.27306738623466,
-      "z_value": -9.698000000000167,
-      "ports_visible": false,
-      "shelf_visible": true,
-      "body_text": "Walk with the wise and become wise, for a companion of fools suffers harm."
     },
     {
       "node_id": 0,
@@ -892,8 +906,8 @@
       "node_type": "warm",
       "title": "",
       "uuid": "c70846fdf41b4e6896ae001bef00feff",
-      "x": 10047.663195489575,
-      "y": 2625.5507794632604,
+      "x": 10219.329209610501,
+      "y": 2922.329312350282,
       "width": 300.0,
       "height": 200.0,
       "z_value": -9.869000000000073,
@@ -1283,6 +1297,20 @@
       "node_id": 0,
       "node_type": "warm",
       "title": "",
+      "uuid": "d7efbb0c8cd3438a8c21c899a389d1d9",
+      "x": 17581.03322675582,
+      "y": 8250.596605658699,
+      "width": 300.0,
+      "height": 200.0,
+      "z_value": -9.828000000000095,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "Do you have any context on where the quote came from? Even a partial source would let me narrow it."
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "",
       "uuid": "25a298099f334e5db06c86b3630eb926",
       "x": 11806.185243718413,
       "y": 3916.4242564957644,
@@ -1369,6 +1397,20 @@
       "ports_visible": false,
       "shelf_visible": true,
       "body_text": "The \"almost-quote\" effect. When language is rhythmically scriptural \u2014 parallelism, conditional clauses, the and\u2026 and\u2026 and cadence \u2014 the brain pattern-matches it as familiar even when no specific verse is its source. Cormac McCarthy does this deliberately; so do a lot of devotional writers. The quote you have has that cadence, which is part of why it rattles."
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "",
+      "uuid": "5ead311bd1f547698fa66a6622a00a75",
+      "x": 9771.67174765222,
+      "y": 2864.1732462552513,
+      "width": 300.0,
+      "height": 200.0,
+      "z_value": -9.870000000000072,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "Where they align well:"
     },
     {
       "node_id": 0,
@@ -1488,7 +1530,7 @@
       "source_mtime": 1770654895.8541267,
       "caption": "Counterparts",
       "volume": 69,
-      "playback_pos": 7987,
+      "playback_pos": 1996,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -1830,14 +1872,14 @@
       "node_type": "warm",
       "title": "",
       "uuid": "bd7da5c990ff41b0b0fa2c7ccb11d89b",
-      "x": 4275.236159568895,
-      "y": 698.8144163076954,
-      "width": 313.9579168107239,
-      "height": 111.61506881605465,
+      "x": 5178.547757228508,
+      "y": 1608.2512851175497,
+      "width": 300.0,
+      "height": 200.0,
       "z_value": -9.894000000000059,
       "ports_visible": false,
       "shelf_visible": true,
-      "body_text": "\"And there shall be gathered unto it out of every nation under heaven; and it shall be the only people that shall not be at war one with another.\""
+      "body_text": "\"And there shall be gathered unto it out of every nation under heaven; and it shall be the only people that shall not be at war one with another.\" \nThe Church of Jesus Christ of Latter-day Saints"
     },
     {
       "node_id": 0,
@@ -1949,7 +1991,7 @@
       "source_mtime": 1772815582.3416893,
       "caption": "52fe9e48-8a75-4478-babd-d9e7838d6fe0-video",
       "volume": 0,
-      "playback_pos": 4541,
+      "playback_pos": 4625,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -2030,8 +2072,8 @@
       "node_type": "warm",
       "title": "",
       "uuid": "e6c3c4acd489437e975989421adcfb1c",
-      "x": 10220.837391353554,
-      "y": 3233.6638897191137,
+      "x": 9897.87251732944,
+      "y": 2285.1364218645163,
       "width": 300.0,
       "height": 200.0,
       "z_value": -9.868000000000073,
@@ -2113,7 +2155,7 @@
       "source_mtime": 1770655083.2261627,
       "caption": "Packing Pile",
       "volume": 0,
-      "playback_pos": 2438,
+      "playback_pos": 3947,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -2187,7 +2229,7 @@
       "z_value": -9.871000000000071,
       "ports_visible": false,
       "shelf_visible": true,
-      "body_text": "Yeah, they're close in spirit but diverge on a few specifics worth flagging:"
+      "body_text": "Apr 24\nClaude responded: Yeah, they're close in spirit but diverge on a few specifics worth flagging:\nYeah, they're close in spirit but diverge on a few specifics worth flagging:"
     },
     {
       "node_id": 0,
@@ -2210,12 +2252,12 @@
       "uuid": "9f32643344654410985296adc90c0e57",
       "x": 17985.33061311396,
       "y": 8059.154328080279,
-      "width": 320.0082407289956,
-      "height": 115.7026974201417,
+      "width": 300.0,
+      "height": 200.0,
       "z_value": -9.827000000000096,
       "ports_visible": false,
       "shelf_visible": true,
-      "body_text": "It just always rattles my mind how close it is to all three of those we just triangulated, without coming from those sources, it's there, but not, similar but not same..."
+      "body_text": "You said: I do, but it would complicate the context to add the citation, it just always rattles my mind how close it is to all three of those we just triangulated, witho\u2026\nI do, but it would complicate the context to add the citation, it just always rattles my mind how close it is to all three of those we just triangulated, without coming from those sources, it's there, but not, similar but not same..."
     },
     {
       "node_id": 0,
@@ -2236,8 +2278,8 @@
       "node_type": "warm",
       "title": "",
       "uuid": "05d37b427f2547e9865d11bb72a177c9",
-      "x": 27022.14524900057,
-      "y": 15297.30641468792,
+      "x": 27038.633320309167,
+      "y": 15277.896823877243,
       "width": 300.0,
       "height": 200.0,
       "z_value": -9.752000000000137,
@@ -2532,8 +2574,8 @@
       "node_type": "warm",
       "title": "",
       "uuid": "fc06cadc064d4bbf8f3eb62ecbf77184",
-      "x": 10492.823082983788,
-      "y": 2500.232240011768,
+      "x": 10149.491054741944,
+      "y": 2529.328174608535,
       "width": 300.0,
       "height": 200.0,
       "z_value": -9.866000000000074,
@@ -2783,6 +2825,48 @@
       "node_id": 0,
       "node_type": "warm",
       "title": "",
+      "uuid": "885a7572f8404111a7e49c4e613c5791",
+      "x": 4424.249429010534,
+      "y": 1182.3612913275115,
+      "width": 300.0,
+      "height": 200.0,
+      "z_value": -9.897000000000057,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "You said: Yes please\nYes please"
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "",
+      "uuid": "77c0e5fc968a4df89fba1fad9bf27573",
+      "x": 4514.0499066271595,
+      "y": 882.7290100001783,
+      "width": 300.0,
+      "height": 200.0,
+      "z_value": -9.898000000000057,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "Doctrine and Covenants 45:69 (LDS scripture) \u2014 this is a verse about the gathering to Zion as a place of safety in the last days.\nA book/chapter:verse from another text you have in mind that I'm not placing.\nA typo or shorthand for something else.\nWant me to pull up the D&C 45:69 passage, or did you mean something different?"
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "Intentional",
+      "uuid": "36775cfe234746619df10896dab735c1",
+      "x": 4057.957206869308,
+      "y": 727.4672647828579,
+      "width": 300.0,
+      "height": 200.0,
+      "z_value": -9.900000000000055,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "You said: Doctrine 45:69\nDoctrine 45:69"
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "",
       "uuid": "512df07e68b54ed6a8496c21f7e2f5c2",
       "x": 27731.32791624754,
       "y": 16280.692856592546,
@@ -2876,6 +2960,20 @@
       "ports_visible": false,
       "shelf_visible": true,
       "body_text": "Apr 24\nClaude responded: That's a thoughtful synthesis of those verses woven together.\nThat's a thoughtful synthesis of those verses woven together. A couple of small notes if you want to keep it tight to the text:"
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "",
+      "uuid": "c104141ce6f0403b94456865940c0347",
+      "x": 4764.709598617132,
+      "y": 1620.59461376727,
+      "width": 300.0,
+      "height": 200.0,
+      "z_value": -9.896000000000058,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "Apr 24\nClaude responded: Here's the verse:"
     },
     {
       "node_id": 0,
@@ -3254,38 +3352,6 @@
       "ports_visible": false,
       "shelf_visible": true,
       "body_text": "Claude is AI and can make mistakes. Please double-check responses."
-    },
-    {
-      "node_id": 0,
-      "node_type": "about",
-      "title": "Where they align well",
-      "uuid": "946238295eb04df491ed730a85bf86aa",
-      "x": 9894.072559630555,
-      "y": 2557.5326510558025,
-      "width": 238.0,
-      "height": 31.0,
-      "z_value": -9.700000000000166,
-      "ports_visible": false,
-      "shelf_visible": false,
-      "label": "Where they align well",
-      "depth_front": false,
-      "node_tint": ""
-    },
-    {
-      "node_id": 0,
-      "node_type": "about",
-      "title": "Doctrine 45:69",
-      "uuid": "a3f18db9a61f4a60ac9bf0cdbfe311f6",
-      "x": 4128.327184839301,
-      "y": 619.249077725895,
-      "width": 168.0,
-      "height": 31.0,
-      "z_value": -9.699000000000167,
-      "ports_visible": false,
-      "shelf_visible": false,
-      "label": "Doctrine 45:69",
-      "depth_front": false,
-      "node_tint": ""
     }
   ],
   "connections": [
@@ -3324,14 +3390,6 @@
     {
       "start_uuid": "3ac54707b05c45f08be6a14f5c53cbf4",
       "end_uuid": "ac235b32db4c482e976519c522330baf"
-    },
-    {
-      "start_uuid": "946238295eb04df491ed730a85bf86aa",
-      "end_uuid": "c70846fdf41b4e6896ae001bef00feff"
-    },
-    {
-      "start_uuid": "17cedd3bad76477e8e76a2e555c28e99",
-      "end_uuid": "946238295eb04df491ed730a85bf86aa"
     },
     {
       "start_uuid": "ac235b32db4c482e976519c522330baf",
@@ -3566,12 +3624,20 @@
       "end_uuid": "dea23ae5f5a34caaa7183fbd23933145"
     },
     {
+      "start_uuid": "7bfad357ff934a6587848218c7a53155",
+      "end_uuid": "77c0e5fc968a4df89fba1fad9bf27573"
+    },
+    {
       "start_uuid": "19f238f5d03543b99b09c5c8874bacd7",
       "end_uuid": "dae01dd94d2d48f78d1d860a5117b1f4"
     },
     {
       "start_uuid": "e593fd77cc3a4e2c97a178960e60088b",
       "end_uuid": "50f3b6fee43d4ff4be46d0c95fbbd58c"
+    },
+    {
+      "start_uuid": "29f0aab4efcb48a68ad2f7653c02e519",
+      "end_uuid": "d7efbb0c8cd3438a8c21c899a389d1d9"
     },
     {
       "start_uuid": "dea23ae5f5a34caaa7183fbd23933145",
@@ -3630,8 +3696,16 @@
       "end_uuid": "8faa5673d5e4475081de4fcbaf23623c"
     },
     {
+      "start_uuid": "36775cfe234746619df10896dab735c1",
+      "end_uuid": "7bfad357ff934a6587848218c7a53155"
+    },
+    {
       "start_uuid": "17a5f824e4254f48a0314f87445747af",
       "end_uuid": "e038ba19cc0340e59f9253f0efe5ceea"
+    },
+    {
+      "start_uuid": "885a7572f8404111a7e49c4e613c5791",
+      "end_uuid": "c104141ce6f0403b94456865940c0347"
     },
     {
       "start_uuid": "53d61c6da8df41c5babfe2a7ab045963",
@@ -3734,6 +3808,10 @@
       "end_uuid": "e2237594b4b74bf5972724efe62474bc"
     },
     {
+      "start_uuid": "5ead311bd1f547698fa66a6622a00a75",
+      "end_uuid": "c70846fdf41b4e6896ae001bef00feff"
+    },
+    {
       "start_uuid": "0c8c4427215a4aaa9b1d88e1267c8701",
       "end_uuid": "240b0cae019f4de9aa84783f055715d0"
     },
@@ -3792,10 +3870,6 @@
     {
       "start_uuid": "22127cde42ec413891501d2cd33b3bf8",
       "end_uuid": "28d9e43922414a92b4b0eb2a56958294"
-    },
-    {
-      "start_uuid": "a3f18db9a61f4a60ac9bf0cdbfe311f6",
-      "end_uuid": "bd7da5c990ff41b0b0fa2c7ccb11d89b"
     },
     {
       "start_uuid": "c98837f6345b4d9f84d5c24edb7d19cc",
@@ -3914,6 +3988,10 @@
       "end_uuid": "2500210773f8402ab1a26933e067fe29"
     },
     {
+      "start_uuid": "17cedd3bad76477e8e76a2e555c28e99",
+      "end_uuid": "5ead311bd1f547698fa66a6622a00a75"
+    },
+    {
       "start_uuid": "f93080b2ab8e4db08a07e3fc11597d8e",
       "end_uuid": "b9af67e8d6f747f899be244c6c1a8f64"
     },
@@ -3970,6 +4048,10 @@
       "end_uuid": "29f0aab4efcb48a68ad2f7653c02e519"
     },
     {
+      "start_uuid": "d7efbb0c8cd3438a8c21c899a389d1d9",
+      "end_uuid": "9f32643344654410985296adc90c0e57"
+    },
+    {
       "start_uuid": "9f32643344654410985296adc90c0e57",
       "end_uuid": "f532f27caa1d4b739abcea8ae03342a7"
     },
@@ -4018,6 +4100,10 @@
       "end_uuid": "60a37c00ad32443d93745373a203c637"
     },
     {
+      "start_uuid": "26b1c2e28ba04196890536565a1aa226",
+      "end_uuid": "bd7da5c990ff41b0b0fa2c7ccb11d89b"
+    },
+    {
       "start_uuid": "fc06cadc064d4bbf8f3eb62ecbf77184",
       "end_uuid": "358c3757502d47b0a30eb454897c6487"
     },
@@ -4054,6 +4140,10 @@
       "end_uuid": "17cedd3bad76477e8e76a2e555c28e99"
     },
     {
+      "start_uuid": "77c0e5fc968a4df89fba1fad9bf27573",
+      "end_uuid": "885a7572f8404111a7e49c4e613c5791"
+    },
+    {
       "start_uuid": "e635db7d79e84d2e8f2726e0a47618b8",
       "end_uuid": "f57332cbfed64fbea1a9e0203ba8298e"
     },
@@ -4074,26 +4164,26 @@
       "end_uuid": "737de3e1fb174c10a2f485b416548089"
     },
     {
+      "start_uuid": "c104141ce6f0403b94456865940c0347",
+      "end_uuid": "26b1c2e28ba04196890536565a1aa226"
+    },
+    {
       "start_uuid": "94951d2b0c25432498c32cc840a9cb09",
       "end_uuid": "e0fcc9981c454ebbad34c1b3bd265dae"
     },
     {
       "start_uuid": "114f698d969e48c887612fe27f19af62",
       "end_uuid": "708a6a3d73fe419e8ffdf92f4da0517a"
-    },
-    {
-      "start_uuid": "29f0aab4efcb48a68ad2f7653c02e519",
-      "end_uuid": "9f32643344654410985296adc90c0e57"
     }
   ],
   "viewport": {
-    "camera_x": 1244.6914511644848,
-    "camera_y": 1648.7142810787632,
-    "camera_zoom": 0.3984923328074293
+    "camera_x": 26915.90392676088,
+    "camera_y": 15246.079303370507,
+    "camera_zoom": 1.7820319217409322
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
   "last_browse_dirs": {},
-  "checksum": "1790983fab61f372"
+  "checksum": "531c130a5e0464ea"
 }
