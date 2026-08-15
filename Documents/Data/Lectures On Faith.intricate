@@ -701,7 +701,7 @@
       "uuid": "0a2f47c0a75c468bb29f1a724d1c6a75",
       "x": 293.75595417558225,
       "y": -2017.328519882412,
-      "width": 904.3727657279877,
+      "width": 892.661869899158,
       "height": 690.6872063008148,
       "z_value": -8.857000000000633,
       "ports_visible": false,
@@ -712,7 +712,7 @@
       "source_mtime": 1780804150.7868564,
       "caption": "Clay Towers",
       "volume": 0,
-      "playback_pos": 5921,
+      "playback_pos": 8359,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -1773,7 +1773,7 @@
       "source_mtime": 1780310291.341108,
       "caption": "a886fa1a-db37-4e83-9789-297ba6d6e98b-video",
       "volume": 0,
-      "playback_pos": 4017,
+      "playback_pos": 5967,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -2417,10 +2417,10 @@
       "node_type": "warm",
       "title": "A series of faith affirmation lectures",
       "uuid": "af26004c24b14875af4615d1b1f34ef5",
-      "x": -715.8383556690391,
-      "y": -2491.1684309573725,
-      "width": 463.0180177897635,
-      "height": 370.123749506879,
+      "x": -1026.6206611368357,
+      "y": -2440.575962625405,
+      "width": 798.6708034626953,
+      "height": 333.9669916478156,
       "z_value": -9.703000000000165,
       "ports_visible": false,
       "shelf_visible": true,
@@ -2528,7 +2528,7 @@
       "source_mtime": 1780804150.79487,
       "caption": "Packing Pile",
       "volume": 50,
-      "playback_pos": 2066,
+      "playback_pos": 5758,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -3055,8 +3055,8 @@
       "node_type": "warm",
       "title": "Having Had Knowledge",
       "uuid": "c98837f6345b4d9f84d5c24edb7d19cc",
-      "x": -842.0664122738158,
-      "y": -1748.2562975369806,
+      "x": -959.1518389849391,
+      "y": -1944.844174484052,
       "width": 300.0,
       "height": 200.0,
       "z_value": -9.832000000000093,
@@ -3275,6 +3275,20 @@
       "ports_visible": false,
       "shelf_visible": true,
       "body_text": "So \"when you hear the angels sing you will know we are awake\" doesn't map cleanly onto Krishna. Krishna would more likely say: you are already awake or you are not, and no external sign will change that. The \"we are awake\" first-person-plural fits Buddhist sangha better than it fits Krishna's teaching, which is more individual-yogic."
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "All three meanings of the statement must hold true",
+      "uuid": "3482dec39a2b440184c86b84ea8175c5",
+      "x": 2614.2497964692047,
+      "y": -1773.4540269596814,
+      "width": 654.2272431297897,
+      "height": 454.4582728030291,
+      "z_value": -9.163000000000464,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "In order for a triple entendre to be correct and not just a generic ambiguous statement,\n\nAll three meanings must be valid and intentional, not just vaguely ambiguous. \nLet's break down the sign's statement: \"Triple entendres are quite hard to come up with.\"\n\nLiteral Meaning: Creating triple entendres is genuinely difficult because you need three distinct, meaningful interpretations that all fit the context.\n\nSecond Meaning (Innuendo): The phrase \"hard to come up with\" can be read as a suggestive innuendo, \"hard\" and \"come up with\" as sensual contexts.\n\nThird Meaning (Playful Challenge): It could also imply that the act of \"coming up with\" something (like ideas) is mentally taxing, playing on \"hard\" as in challenging, and \"come up with\" as a creative struggle.\n\nAll three meanings work together without feeling forced. The phrasing has a cheeky innuendo, and the creative process can be a mental challenge. So, this statement does qualify as an actual triple entendre explaining itself within its own statement.\n\n\"We burned the library\"\n\nCalculate meanings per page explore symbolic interpretations\n\nLet's analyze \"We burned the library\" as a potential triple entendre.\nFor this to qualify, all three meanings must hold true"
     }
   ],
   "connections": [
@@ -4096,9 +4110,9 @@
     }
   ],
   "viewport": {
-    "camera_x": 2534.249013702978,
-    "camera_y": -385.65915859910706,
-    "camera_zoom": 0.6918025776157923
+    "camera_x": 2561.4384273249552,
+    "camera_y": -1654.2096044759123,
+    "camera_zoom": 0.711397151132389
   },
   "ui_migrations": [
     "image_border_default_on_v1"
@@ -4106,5 +4120,5 @@
   "last_browse_dirs": {
     "image": "C:\\Users\\thebe\\Desktop\\Lectures on Faith\\Pages\\Page Spread"
   },
-  "checksum": "1a16c604e1ee6705"
+  "checksum": "c4955db99ded2497"
 }
