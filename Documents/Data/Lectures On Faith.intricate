@@ -408,7 +408,7 @@
       "source_mtime": 1780804150.79487,
       "caption": "Packing Pile",
       "volume": 50,
-      "playback_pos": 1811,
+      "playback_pos": 3625,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -1896,7 +1896,7 @@
       "source_mtime": 1780804150.7868564,
       "caption": "Clay Towers",
       "volume": 0,
-      "playback_pos": 1764,
+      "playback_pos": 3666,
       "looping": true,
       "muted": false,
       "show_border": true,
@@ -4051,6 +4051,20 @@
       "ports_visible": false,
       "shelf_visible": true,
       "body_text": "Maybe 19 or 20 years old, who was sitting in an internet caf\u00e9 looking completely lost. He told me he'd been working part-time jobs that barely paid anything, and the pressure from society to succeed was crushing him. He'd never even been on a proper date because he felt worthless. I told him about his intrinsic value as a human being, about how society's metrics for success are often completely arbitrary and damaging. We talked for hours, and something shifted in him that day."
+    },
+    {
+      "node_id": 0,
+      "node_type": "warm",
+      "title": "Beautiful",
+      "uuid": "d29201267b184f1688e4f5bb2516120c",
+      "x": 156.18855642997937,
+      "y": 126.86783562468668,
+      "width": 458.2452906761189,
+      "height": 180.44337678873705,
+      "z_value": -9.815000000000103,
+      "ports_visible": false,
+      "shelf_visible": true,
+      "body_text": "It wasnt really the fact that every soul in existence had to be processed somehow before proceeding into heaven, this everyone can figure out as time goes by within an infinite notion of time.  It was the fact that nobody actually expected all of humanity from beginning of time to show up outside the airlock at once and demand to get in.  This is what led us to have to define a few rules of engagement, and a few select good snacks so they don't get hungry while they wait."
     }
   ],
   "connections": [
@@ -5084,9 +5098,9 @@
     }
   ],
   "viewport": {
-    "camera_x": 4760.6744336857955,
-    "camera_y": 5022.463048165463,
-    "camera_zoom": 0.10313664730479362
+    "camera_x": 710.4331405931105,
+    "camera_y": 362.15052454105034,
+    "camera_zoom": 0.5047624885582053
   },
   "ui_migrations": [
     "image_border_default_on_v1"
@@ -5094,5 +5108,5 @@
   "last_browse_dirs": {
     "image": "C:\\Users\\thebe\\Desktop\\Lectures on Faith\\Pages\\Page Spread"
   },
-  "checksum": "f5648dfedc3ebbdd"
+  "checksum": "033e7ed171918c4a"
 }
