@@ -5113,7 +5113,7 @@
   ],
   "viewport": {
     "camera_x": -1048.7205674841139,
-    "camera_y": -1436.8085411513496,
+    "camera_y": -1119.5133216470936,
     "camera_zoom": 1.3362949516304095
   },
   "ui_migrations": [
@@ -5122,5 +5122,5 @@
   "last_browse_dirs": {
     "image": "C:\\Users\\thebe\\Desktop\\Lectures on Faith\\Pages\\Page Spread"
   },
-  "checksum": "9532dcf810981089"
+  "checksum": "f92dcbd4c0c87df5"
 }
